@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lexical-aquifer-192612",
+  "private_key_id": "6cf2d64a4f23c091bc7b35ca969267c9da41de98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCm8TO/NMCjWppi\n6j2Ls12Og/yapHl1R3xFYCwCkrh1qr/jkt8SjWuzatIm5jPNcRVixyhjJfYtoeZ9\nzDlD7/9XPjPVKIg6B3cm/JZ9vGN320AdLXuGdryDTNwBBbEFvOXWUic8cqKaCZUu\nFKsX1XG8noRFuRqxE4t4rHLxZ5+B88OB0YXNFFD2OS0FB46qs6cdMfLYPzdI/6Ie\nOGqmE0q6LpGUX5Sm7+fk23za4rJdnn1fayspS9kIlJgQn5i6butemfSjQ4AqM7Ee\nzdvYdZzXWq0UG9hHW/WlNMuFsMiciOLms+0gBRRHgMVzLKCbDce8FgeT3aGAKyR4\n+zRAQ4GlAgMBAAECggEAAqyazsV6ZS4r3/QZpUsWb2nXhOX9Q27a45pH9N3t0jC4\nid2N8OmkCofmXZTSyp009v6dZoKIADDM6kH4aYlcK+/FUR+o7akLScFtFbmMAbJY\n7hQO8QH7lheH71pB0jI1n6p0PMh8qKleTZKA2ne4WTRUMRu8fOQFGBtHF204sGe1\nE6wO7FELBm/ez1TkEBShYUYBEJqIBSclxKvMsgz/bqU55O3hsqfVK7MkYfziSfhF\nWVb3U9wCZVJ+Q55jwOyjv0msX2Z8uWpWpRP2qhHGl/aeArar/zrVOni3Ib4rwTOX\nt5I7O1dII7mdL5DiRpF6jooY+/UN1dJy23wlIe/itwKBgQDpMc/rWO04kyIRLs8s\nuGaELfckQU+JlbC/Euu0srsMVyES9eGJUVBwPlbWjMc86H3A0jihoePgqT/n7iWI\nqPY4SPQ4kI1H4CxplXLT8SxRzBP7+D7vss4ydUjNMSxUrzaB6wtuL3igiFmTEzV9\npBEMk00UBeLRjX/VBqJFMt8fLwKBgQC3RLc01xUB/6AsKoCL+gRGroQp2AUwMhF/\nO4ZANVb8612rnKMJnlKoKxhmyqYPR7eFAirv6AzpdRnb4M2xdbgZULf78YBW9N6V\nLpO1BxUcSe8ygvda+BXXBvgUU8sWkHPthYa68wZCUzqlJJJDPuasR7dOqMDJUB2h\no8RHlv/XawKBgCQkCTJTZOiIvRXmqEspBRJlQVFIIfiTz4G9f/RQYvblpgWXP+4V\nQR80OickSFijO6IfspEyUuvlrzbVzNFiRk6w19DQbmT+VEPE2rgIP7Mpqss5TR+/\nGX/ud2r9vP4e7ZazA+F+z/YpS6CksHyZad8GEUMSKnYJtQ8h6RJKcRQXAoGBAKGn\nqzKgxZcNtGtA0kKmNj9ikJGYSntIrsZb6v+YDTLrKaTGdcl2LdLIsK168x9nUymv\nz8/uD/WdpUGd+dIe1FUALkm9rEcHl45fl0qHBMf/L06O10EWs60IKKtFfk5Y/Oj2\nbvFYjJzUbVZd++X1BePRHo/zqpnoYTrDCc9cEjAhAoGBAI79L0uhpSeH1hVMqrBO\nlXrHUJTV54Hx5t5uW23V9eyd8wvHhoIPi6NgHHqvBxeZEmTldG1BeCV8FomtkJcN\nCi+fogTCG30q1v7Si9XhjYM7CcxBNM31HRJtt3zqjLWshLME/FbbdZwf0kDnUcHe\n52y21s+buDNJGSkNCk/200qS\n-----END PRIVATE KEY-----\n",
+  "client_email": "service@lexical-aquifer-192612.iam.gserviceaccount.com",
+  "client_id": "107667462877774786392",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/service%40lexical-aquifer-192612.iam.gserviceaccount.com"
+}
